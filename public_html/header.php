@@ -18,7 +18,7 @@ session_start();
   gtag('config', 'UA-98426618-1');
 </script>
 
-    <!--Nitil  Basic Page Needs
+    <!-- Basic Page Needs
     ================================================== -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
