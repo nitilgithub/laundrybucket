@@ -1,0 +1,73 @@
+<?php
+
+ob_start();
+
+session_start();
+
+include '../connection.php';
+
+header('Access-Control-Allow-Origin: *');
+
+header('Content-Type: application/json');
+
+$list=array();
+
+                                        	
+
+										
+
+                                        $result=mysql_query("select * from tbl_notifications") or die(mysql_error());
+
+										if(mysql_affected_rows())
+
+	                                  {
+
+		                                while($row=mysql_fetch_array($result))
+
+		                             {
+
+		                             	
+
+		                             	
+
+										$row_array["id"]=$row["id"];
+
+									
+
+										$row_array["ntitle"]=$row["title"];
+
+
+										
+
+										$row_array["addondate"]=date("d-m-Y",strtotime($row["addon"]));
+										
+										
+										$row_array['description']=$row['text'];
+										
+										
+
+										array_push($list,$row_array);
+
+		                             	
+
+										
+
+									 }
+
+									 
+
+									 echo json_encode($list);
+
+									  }
+
+									  
+
+									  
+
+									  mysql_close();
+
+									  ob_end_flush();
+
+									  
+
+		                             	?>

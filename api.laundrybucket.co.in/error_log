@@ -1,0 +1,8 @@
+[15-Jan-2017 02:50:58 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/laundrybuck/api.laundrybucket.co.in/connection.php on line 11
+[15-Jan-2017 02:56:34 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_real_escape_string() in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 22
+[15-Jan-2017 02:57:19 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_real_escape_string() in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 22
+[15-Jan-2017 02:57:23 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_real_escape_string() in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 22
+[15-Jan-2017 02:57:51 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_real_escape_string() in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 22
+[15-Jan-2017 02:59:10 America/Chicago] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 22
+[15-Jan-2017 02:59:10 America/Chicago] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, resource given in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 24
+[15-Jan-2017 02:59:33 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/laundrybuck/api.laundrybucket.co.in/abc.php on line 32

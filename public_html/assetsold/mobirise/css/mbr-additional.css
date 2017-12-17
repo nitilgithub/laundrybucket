@@ -1,0 +1,179 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
+
+
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #ffffff;
+}
+#slider-3 P {
+  color: #000000;
+}
+#slider-3 H1 {
+  color: #000000;
+}
+#content5-4 .caption h3 {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto Slab', serif;
+}
+#content5-4 P {
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+  text-align: left;
+}
+#content4-8 H3 {
+  font-family: 'Roboto Slab', serif;
+  color: #ffffff;
+  text-align: left;
+  font-size: 15px;
+}
+#content4-8 P {
+  font-family: 'Roboto Slab', serif;
+  color: #ffffff;
+  font-size: 14px;
+}
+#pricing-table1-11 SUP {
+  color: #ffffff;
+}
+#pricing-table1-11 SPAN {
+  font-size: 22px;
+}
+#pricing-table1-11 SMALL {
+  color: #c1c1c1;
+}
+#pricing-table1-11 UL {
+  color: #252525;
+  text-align: center;
+  font-size: 14px;
+}
+#testimonials1-9 .mbr-section__header {
+  color: #252525;
+  font-family: 'Indie Flower', cursive;
+}
+#testimonials1-9 .mbr-reviews__author-name {
+  color: #252525;
+}
+#testimonials1-9 .mbr-reviews__author-bio {
+  color: #ffffff;
+}
+#testimonials1-9 .mbr-reviews__text P {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-21 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 72px;
+  color: #ffffff;
+}
+
+/* edited  start for contactus part in index.php*/
+#msg-box3-21 .mbr-header .mbr-header__textcont {
+  text-align: center;
+  font-size: 35px;
+  color: #ffffff;
+}
+/* edited  end for contactus part in index.php*/
+
+#msg-box3-21 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-21 .mbr-article P {
+  text-align: center;
+  color: #ffffff;
+}
+#ext_menu-9 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-9.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-9 .mbr-navbar__section {
+  background: #ffffff;
+}
+#msg-box4-23 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-23 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-23 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-24 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-24 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-24 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-24 .mbr-article P {
+  color: #000000;
+}
+#features1-12 P {
+  color: #ffffff;
+}
+#features1-12 H3 {
+  color: #ffffff;
+}
+#msg-box3-22 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 72px;
+  color: #ffffff;
+}
+#msg-box3-22 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-22 .mbr-article P {
+  text-align: center;
+  color: #ffffff;
+}
+#ext_menu-13 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-13 .mbr-navbar__section {
+  background: #ffffff;
+}
+#image2-22 SMALL {
+  font-size: 30px;
+}
+
+#msg-box3-23 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-size: 72px;
+  color: #ffffff;
+}
+#msg-box3-23 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-23 .mbr-article P {
+  text-align: center;
+  color: #ffffff;
+}
+#ext_menu-19 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-19.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
+}
+#ext_menu-19 .mbr-navbar__section {
+  background: #ffffff;
+}
+#form1-22 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+}
