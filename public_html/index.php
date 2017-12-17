@@ -8,12 +8,12 @@
 <meta name="copyright" content=" laundry bucket">
 <meta name="robots" content="index, follow">
 <meta name="revised" content="All" />
-<meta name="author" content="Admin, info@ laundrybucket.co.in ">
-<meta property="og:url" content="https://laundrybucket.co.in/" />
+<meta name="author" content="Admin, info@nitsvits.click">
+<meta property="og:url" content="/" />
 <meta property="og:site_name" content="laundry bucket " />
-<meta property="og:image" content="https://laundrybucket.co.in/assets/images/img-1959-copy491x213-160.png" />
+<meta property="og:image" content="/assets/images/img-1959-copy491x213-160.png" />
 <meta property="og:type" content="Local service" />
-<link rel="canonical" href="https://laundrybucket.co.in/"/>
+<link rel="canonical" href="/"/>
 <meta name="google-site-verification" content="F9crcEJxT1gtrvRsdxcjBGuxj_MnBgpe1lk-PzQbX30" />
 <?php
 if(isset($_POST['laundrySearch']))
@@ -30,7 +30,7 @@ if(isset($_POST['laundrySearch']))
 	     
 	//echo("<script>location.href = 'enquiry.php?loc=".$location."&place=".$city."&service=".$service."';</script>");
 	
-	echo("<script>location.href = 'https://www.laundrybucket.co.in/".$service."-services-".$location."-in-".$city."';</script>");
+	echo("<script>location.href = '/".$service."-services-".$location."-in-".$city."';</script>");
 }
 ?>
 <style>
@@ -173,9 +173,9 @@ if(isset($_POST['laundrySearch']))
 		                <img src="img/laundry.jpg" alt="" class="img-responsive">
 		              </div>
 		              <div class="body">
-		               <a href="https://www.laundrybucket.co.in/laundry-service" class="title">Laundry Services</a>
+		               <a href="/laundry-service" class="title">Laundry Services</a>
 		               <!-- <p>We also understand that the safety of your family comes first.</p>-->
-		                <a href="https://www.laundrybucket.co.in/laundry-service" class="readmore">Read More</a>
+		                <a href="/laundry-service" class="readmore">Read More</a>
 		              </div>
 		            </div>
 				</div>
@@ -186,9 +186,9 @@ if(isset($_POST['laundrySearch']))
 		                <img src="img/dryclean.jpg" alt="" class="img-responsive">
 		              </div>
 		              <div class="body">
-		               <a href="https://www.laundrybucket.co.in/Mens-wear-drycleaning-service" class="title">Dry Cleaning Services</a>
+		               <a href="/Mens-wear-drycleaning-service" class="title">Dry Cleaning Services</a>
 		              <!--  <p>We also understand that the safety of your family comes first.</p>-->
-		                <a href="https://www.laundrybucket.co.in/Mens-wear-drycleaning-service" class="readmore">Read More</a>
+		                <a href="/Mens-wear-drycleaning-service" class="readmore">Read More</a>
 		              </div>
 		            </div>
 				</div>
@@ -199,9 +199,9 @@ if(isset($_POST['laundrySearch']))
 		                <img src="images/service-3.jpg" alt="" class="img-responsive">
 		              </div>
 		              <div class="body">
-		               <a href="https://www.laundrybucket.co.in/laundry-drycleaning-services" class="title">Special Services</a>
+		               <a href="/laundry-drycleaning-services" class="title">Special Services</a>
 		               <!-- <p>We also understand that the safety of your family comes first.</p>-->
-		                <a href="https://www.laundrybucket.co.in/laundry-drycleaning-services" class="readmore">Read More</a>
+		                <a href="/laundry-drycleaning-services" class="readmore">Read More</a>
 		              </div>
 		            </div>
 				</div>
