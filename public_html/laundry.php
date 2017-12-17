@@ -1,7 +1,7 @@
 <?php include('header.php'); ?> 
 <title>Best laundry service & Laundry pickup service in Ghaziabad, Indirapuram</title>
 <meta name="description" content="Best dry cleaning and laundry service in Ghaziabad, we offer laundry pickup service in Vaishali and Indirapuram, at low cost">
-<link rel="canonical" href="https://www.laundrybucket.co.in/laundry-service"/>
+<link rel="canonical" href="/laundry-service"/>
 	<!-- BANNER -->
 	<div class="section banner-page">
 		<div class="container">
@@ -56,7 +56,7 @@
 							<div class="media">
 				                <img src="img/laundry_3.jpg" alt="rud" class="img-responsive">
 			              	</div>
-						</div>
+					</div>
 						<div class="col-sm-4 col-md-4">
 							<div class="body">
 				                <h3><a href="commercial_laundry.php" class="title">Commercial Laundry</a></h3>

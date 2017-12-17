@@ -113,10 +113,10 @@ session_start();
 						<li class="dropdown">
 						  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
 						  <ul class="dropdown-menu">
-							<li><a href="https://www.laundrybucket.co.in/laundry-service">Laundry</a></li>
-							<li><a href="https://www.laundrybucket.co.in/Mens-wear-drycleaning-service">Dry Clean</a></li>
+							<li><a href="/laundry-service">Laundry</a></li>
+							<li><a href="/Mens-wear-drycleaning-service">Dry Clean</a></li>
 							
-							<li><a href="https://www.laundrybucket.co.in/laundry-drycleaning-services">Service Detail</a></li>
+							<li><a href="/laundry-drycleaning-services">Service Detail</a></li>
 							<li><a href="package.php">Laundry Packages</a></li>
 						  </ul>
 						</li>

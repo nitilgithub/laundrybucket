@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <title>Best laundry service & Laundry pickup service in Indirapuram </title>
 <meta name="description" content="Best dry cleaning and laundry service in Indirapuram, we offer laundry pickup service in Vaishali and Indirapuram, at low cost">
-<link rel="canonical" href="https://www.laundrybucket.co.in/laundry-drycleaning-services"/>
+<link rel="canonical" href="/laundry-drycleaning-services"/>
 	<!-- BANNER -->
 	<div class="section banner-page">
 		<div class="container">
