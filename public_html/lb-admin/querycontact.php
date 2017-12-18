@@ -5,7 +5,7 @@
 		var contactid=$("#contactid").val();
 		$.ajax({
 			type:'GET',
-			url:"https://www.laundrybucket.co.in/lb-admin/api_update_queryremarks.php?id="+contactid+"&remark="+remarks,
+			url:"api_update_queryremarks.php?id="+contactid+"&remark="+remarks,
 			success:function(data)
 			{
 				$.each(data,function(i,field){
