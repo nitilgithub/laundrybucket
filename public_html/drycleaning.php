@@ -39,9 +39,9 @@ else
 					<p style="text-align: justify;">Our dry cleaning service is capable of Low-Moisture Encapsulation Technology. It takes soil and converts it to crystallized polymers, making removal easy using deep brush agitation. There is no sticky residue and our dry cleaning agents are pet and people safe. Apart from your daily garments, our cleaning services include upholstery, carpet, leather, mattress, rugs, floor and pet odour treatments. We provide high quality dry cleaning services to every customer. We don’t just dry clean, we restore your garments as well. Laundry bucket is known to be an effective, efficient and proven solution for those who have no time for doing these tasks themselves.</p>
 				
 				<ul class="nav nav-tabs">
-				  <li class="<?php if(isset($_GET['wl'])|| isset($_GET['hl'])){ } else { echo 'active'; }?> tab"><a  href="https://www.laundrybucket.co.in/Mens-wear-drycleaning-service">Men's Wear Rate List</a></li>
-				  <li class="<?php if(isset($_GET['wl'])){ echo 'active';}?> tab"><a  href="https://www.laundrybucket.co.in/Women&wls-wear-drycleaning-service">Women's Wear Rate List</a></li>
-				  <li class="<?php if(isset($_GET['hl'])){ echo 'active';} ?> tab"><a  href="https://www.laundrybucket.co.in/HouseHold&hls-wear-drycleaning-service">HouseHold Rate List</a></li>
+				  <li class="<?php if(isset($_GET['wl'])|| isset($_GET['hl'])){ } else { echo 'active'; }?> tab"><a  href="/Mens-wear-drycleaning-service">Men's Wear Rate List</a></li>
+				  <li class="<?php if(isset($_GET['wl'])){ echo 'active';}?> tab"><a  href="/Women&wls-wear-drycleaning-service">Women's Wear Rate List</a></li>
+				  <li class="<?php if(isset($_GET['hl'])){ echo 'active';} ?> tab"><a  href="/HouseHold&hls-wear-drycleaning-service">HouseHold Rate List</a></li>
 				</ul>
 				<br>
 				<div class="tab-content">
